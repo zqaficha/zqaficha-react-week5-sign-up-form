@@ -1,5 +1,5 @@
 import styled from "styled-components"
-import Globalstyded from '../Globalstyles.js'
+import Globalstyded from '../Globalstyles.ts'
 
 export default function Text() {
   return (
