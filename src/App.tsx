@@ -1,6 +1,6 @@
 import Text from './components/Text.tsx'
 import Input from './components/input.tsx'
-import Globalstyded from './Globalstyles.js'
+import Globalstyded from './Globalstyles.ts'
 import styled from 'styled-components'
 
 function App() {
